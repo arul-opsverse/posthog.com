@@ -123,7 +123,7 @@
         "rehype-sanitize": "^5.0.1",
         "reselect": "^4.0.0",
         "sass": "^1.43.2",
-        "sharp": "^0.27.2",
+        "sharp": "^0.30.5",
         "slugify": "^1.6.0",
         "squeak-react": "^1.14.0",
         "styled-components": "^5.3.3",
